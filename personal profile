@@ -1,0 +1,78 @@
+<html>
+<head>
+<style>
+.center{
+text-align: center;
+}
+body{
+background-image:url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-036.jpg");
+}
+table{
+font-family:arial,sans-serif;
+border-collapse:collapse;
+width:100%}
+td,th{
+border: 1px solid #dddddd;
+text-align:left;
+padding:8px;}
+tr:nth-child(even){
+background-color:#dddddd;}
+</style>
+</head>
+<div class="center">
+<h1 style="color:red;"><i>s.sravani</i></h1>
+<p style="color:green;"><i>This is soma.sravani.It is my personal website.In this website iam include my education details,personal details, my hobbies,my skills,my technical skills,my workshop, my achivements.</i></p></div>
+<h2 style="color:red;"><i>Technical skills</li></h2>
+<ul>
+<li>Python</li>
+<li>c</li>
+<li>html</li>
+<li>css</li>
+</ul>
+<h2 style="color:red;"><i>Education details</i></h2>
+<table>
+<tr>
+<th style="color:blue;"><i>Degree</i></th>
+<th style="color:blue;"><i>Institute</i></th>
+<th style="color:blue;"><i>Year</i></th>
+<th style="color:blue;"><i>Score</i></th>
+</tr>
+<tr>
+<th>B.tech(ECE)</th>
+<th>VNITSW</th>
+<th>2021-2024</th>
+<th>70%</th>
+</tr>
+<tr>
+<th>Diploma</th>
+<th>M.B.T.S govt polytechnic</th>
+<th>2018-2021</th>
+<th>88.6%</th>
+</tr>
+<tr>
+<th>SSC</th>
+<th>A.Z.P.H.S</th>
+<th>2018</th>
+<th>9.8 CGPA</th>
+</tr>
+</table>
+<h2 style="color:red;"><i>hobbies</i></h2>
+<ul>
+<li><i>playing games</i></li>
+<li><i>watching movies</i></li>
+<li><i>reading books</i></li>
+</ul>
+<h2 style="color:red;"><i>Strengths</i></h2>
+<ul>
+<li>Adaptability</li>
+<li>Hard working</li>
+<li>persistence</li>
+</ul>
+<h2 style="color:red;"><i>Personal Details</i></h2>
+<ul>
+<li>Date of birth:15-03-2003</li>
+<li>phone no:8688456671</li>
+<li>languages known:telugu,english,hindi</li>
+</ul>
+</body>
+</html>
